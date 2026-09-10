@@ -1,5 +1,6 @@
-# ERROR403
-A Horrorgame, where the Map is your Home irl
+# ERROR: 403
 
-# Updates:
-Logo Changed
+## Changelog
+
+### 10.9.2026 | 9/10/2026
+- New Icons, Logos and Name Fix
